@@ -1,0 +1,11 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.NotesSqlite" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <item name="colorPrimary">@color/bg1</item>
+        <item name="colorPrimaryVariant">@color/bg1</item>
+        <item name="android:statusBarColor">@color/bg1</item>
+    </style>
+
+    <style name="Theme.NotesSqlite" parent="Base.Theme.NotesSqlite" />
+</resources>
